@@ -1,6 +1,6 @@
 {
   "name": "com.ging1991.infraestructura",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Infraestructura",
   "description": "Common infrastructure code for Unity projects.",
   "unity": "2020.3",
